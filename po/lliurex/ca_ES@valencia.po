@@ -1,0 +1,311 @@
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-07-16 12:49+0200\n"
+"PO-Revision-Date: 2019-07-17 10:59+0200\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/cuotas.html:5
+msgid "Quota LliureX Mode"
+msgstr "Model de Quotes"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/cuotas.html:7
+msgid ""
+"Select the quota mode in the center model and do not allow any user to fill "
+"the data hard disk by dropping the system."
+msgstr ""
+"En un model d'aula o de centre , seleccioneu LliureX Quota en el menú. Des"
+" d'ací podeu limitar, editar i modificar la mida màxima del disc de què"
+" disposaran els usuaris en /net."
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/cuotas.html:8
+msgid "Apply the fees by type of user, by classrooms or individually."
+msgstr ""
+"Aplica les quotes per tipus d'usuari, per aula/grup o de manera individual."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/desktop.html:5
+msgid "A Brand New Desktop Environment"
+msgstr "Un nou entorn d'escriptori"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/desktop.html:7
+msgid ""
+"LliureX desktop environment is a brand new product for college users. From "
+"start menu, status bar, panel icons to file manager and control panel, you "
+"will experience a smooth and beautiful system. More function in details are "
+"awaiting you to find out."
+msgstr ""
+"Hem canviat l'entorn de LliureX i ara és molt més modern i actual."
+" Disfrutareu d'una millor experiència amb les novetats en el menú d'inici, la"
+" barra d'estat, les icones del tauler, l'administrador de fitxers i el tauler"
+" de control. Descobriu les noves funcions que trobareu en el nou escriptori."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/first-aid-kit.html:5
+msgid "First Aid Kit"
+msgstr "First Aid Kit"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/first-aid-kit.html:7
+msgid ""
+"Now, you can test your system and solve the most common problems. You can "
+"also install, uninstall and manage the kernels in a simpler way."
+msgstr ""
+"Ara podeu verificar el sistema i corregir els problemes més habituals. "
+"A més, també podeu instal·lar, desinstal·lar i gestionar el nucli d'arrancada"
+" d'una manera més senzilla."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/help_comunity.html:5
+#: slideshows/lliurex/slides/help_wiki.html:5
+msgid "Getting Help"
+msgstr "Obteniu ajuda"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/help_comunity.html:7
+msgid "If you need help, you can contact us:"
+msgstr "Si necessiteu ajuda, podeu contactar amb nosaltres:"
+
+#. The url should not be translated
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:9
+msgid ""
+"Using our <a href=\"http://mestreacasa.gva.es/web/lliurex/\">webpage</a> at "
+"<a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+msgstr ""
+"Utilitzeu la nostra <a href=\"http://mestreacasa.gva.es/web/lliurex/\">pàgina "
+"web</a> en <a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:13
+msgid ""
+"On the mailing list, subscribe on <a href=\"https://launchpad.net/~llxdev/"
+"+archive/ubuntu/xenial\">the page of LliureX project at Launchpad</a>."
+msgstr ""
+"La nostra llista de correu de LliureX, subscriviu-vos en  <a"
+" href=\"https://launchpad.net/"
+"~llxdev/+archive/ubuntu/bionic\">la pàgina del projecte LlliureX en "
+"Launchpad</a>."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:17
+msgid ""
+"At our twitter account @lliurex at <a href=\"https://twitter.com/LliureX"
+"\">Twitter</a>"
+msgstr ""
+"El nostre compte de twitter @lliurex en <a href=\"https://twitter.com/LliureX"
+"\">Twitter</a>"
+
+#. type: Content of: <div><div><div><h4><div><p>
+#: slideshows/lliurex/slides/help_comunity.html:21
+msgid "The installation will finish soon. We hope you enjoy LliureX."
+msgstr "La instal·lació finalitzarà prompte. Esperem que disfruteu de LliureX."
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/help_wiki.html:7
+msgid ""
+"If you have any doubt you can soved it if you visit our <a href=\"http://"
+"wiki.lliurex.net/\">wiki</a> at <a href=\"http://wiki.lliurex.net/\">wiki."
+"lliurex.net</a>:"
+msgstr ""
+"Si voleu resoldre qualsevol dubte, visiteu <a href=\"http://"
+"wiki.lliurex.net/\">wiki</a> en <a href=\"http://wiki.lliurex.net/\"> wiki."
+"lliurex.net</a>:"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:9
+msgid "Info for Lliurex 19.04 and older versions."
+msgstr "Informació per a LliureX 19.07 i versions anteriors."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:13
+msgid ""
+"You can find many manuals and video guides to manage LliureX in all "
+"environments."
+msgstr ""
+"Podeu trobar molts manuals i videoguies  per a gestionar LliureX en tots els"
+" seus entorns."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:17
+msgid "Check how new applications work."
+msgstr "Consulteu com funcionen les noves aplicacions."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:21
+msgid "More problems have been solved here."
+msgstr "S'han resolt anteriorment molts problemes ací."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:25
+msgid "You can download many drivers for printers, digital boards....."
+msgstr ""
+"Podeu descarregar molts controladors per a impressores, pissarres digitals ..."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:5
+msgid "Desktop model"
+msgstr "Model d'escriptori"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:7
+msgid "Enjoy the environment of LliureX and its ease of use on any PC."
+msgstr ""
+"Gaudiu de l'entorn de LliureX i de la seua facilitat d'ús en qualsevol PC."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:13
+msgid "Clasroom model"
+msgstr "Model d'Aula"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:15
+msgid ""
+"This implementation allows you to have LDAP validation, copy profiles on the "
+"server, classroom monitoring with Epoptes, internet control with LliureX "
+"Guard, automatic package installation ...."
+msgstr ""
+"Aquesta implementació us permet tindre validacions de LDAP, guardar els"
+" perfils dels usuaris en el servidor, monitorar l'aula amb Epoptes, controlar"
+" l'accés a algunes webs d'internet amb LliureX Guard, instal·lar paquets"
+" automàticament..."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:21
+msgid "Center model"
+msgstr "Model de Centre"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:23
+msgid ""
+"Have all the advantages of the classroom model and centralize all user data "
+"in a disk booth or central file server. Manage a single LDAP for validations "
+"throughout the center."
+msgstr ""
+"Gaudiu de tots els avantatges del model d'aula i centralitzeu totes les dades"
+" de l'usuari en una cabina de disc o en un servidor de fitxers. Gestioneu un"
+" únic LDAP per a validacions dels usuaris en tot el centre."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/mount-mode.html:5
+msgid "Clasroom mount mode"
+msgstr "Clasroom mount mode"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/mount-mode.html:7
+msgid "Choose the classroom model you want:"
+msgstr "Seleccioneu el model d'aula que desitgeu:"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/mount-mode.html:9
+msgid "LITE: If you only want a desktop folder to be mounted."
+msgstr "LITE: Si només voleu muntar una carpeta de xarxa en l' escriptori."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/mount-mode.html:12
+msgid ""
+"FULL: The usual way where browser profiles, desktop preferences, Documents "
+"and Desktop folders are copied."
+msgstr ""
+"COMPLET: El model habitual de LLiureX, on es copien els perfils del"
+" navegador, les preferències de les sessions, les carpetes Documents i"
+" l'Escriptori."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/novedades.html:5
+msgid "New aspect"
+msgstr "Nou aspecte"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/novedades.html:7
+msgid ""
+"We have given a renewed and more friendly aspect to several of the "
+"applications:"
+msgstr ""
+"Hem donat un aspecte renovat i més amigable a algunes de les aplicacions:"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:9
+msgid "Open-SysClone"
+msgstr "Open-SysClone"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:12
+msgid "Easy Sites"
+msgstr "Easy Sites"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:15
+#, fuzzy
+msgid "lliureX Guard"
+msgstr "LliureX Guard"
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:18
+msgid "Bell Sheduler"
+msgstr "Bell Sheduler"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/novedades.html:25
+msgid "Alarm Program"
+msgstr "Programa d'Alarmes"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/novedades.html:27
+msgid ""
+"With Bell Scheduler you can program alarms for class changes in a very "
+"simple way."
+msgstr ""
+"Amb Bell Scheduler podeu programar alarmes per a canvis de classe d'una "
+"manera molt senzilla."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/welcome.html:5
+msgid "Thank you for choosing LliureX 19.07"
+msgstr "Gràcies per triar LliureX 19.07"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:8
+msgid ""
+"LliureX is an initiative driven by the Department of Education of Regional "
+"Government with the purpose of using free software ICTs in the Valencian "
+"Education System, so as to allow its users to enjoy a thoughtful and fine "
+"user experience."
+msgstr ""
+"LliureX es una iniciativa impulsada per la Conselleria d'Educació, Cultura i"
+" Esport de la Generalitat Valenciana per a utilitzar les TIC de programari"
+" lliure en el sistema educatiu valencià i d'aquesta manera permetre als"
+" usuaris gaudir d'una experiència agradable i senzilla."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:9
+msgid ""
+"LliureX is a Custom Ubuntu GNU/Linux Distribution (CDD) intended as an "
+"operating system for educational institutions."
+msgstr ""
+"LliureX és una distribució personalitzada d'Ubuntu GNU / Linux (CDD) "
+"dissenyada com a sistema operatiu per a institucions educatives."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:10
+msgid ""
+"While LliureX is installed, this slideshow will show you around its main "
+"features."
+msgstr ""
+"Mentre s'instal·la LliureX, aquesta presentació de diapositives us mostrarà"
+" les seues característiques principals."

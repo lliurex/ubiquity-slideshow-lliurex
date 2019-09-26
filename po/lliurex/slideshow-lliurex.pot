@@ -1,0 +1,263 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-07-16 12:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/cuotas.html:5
+msgid "Quota LliureX Mode"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/cuotas.html:7
+msgid ""
+"Select the quota mode in the center model and do not allow any user to fill "
+"the data hard disk by dropping the system."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/cuotas.html:8
+msgid "Apply the fees by type of user, by classrooms or individually."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/desktop.html:5
+msgid "A Brand New Desktop Environment"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/desktop.html:7
+msgid ""
+"LliureX desktop environment is a brand new product for college users. From "
+"start menu, status bar, panel icons to file manager and control panel, you "
+"will experience a smooth and beautiful system. More function in details are "
+"awaiting you to find out."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/first-aid-kit.html:5
+msgid "First Aid Kit"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/first-aid-kit.html:7
+msgid ""
+"Now, you can test your system and solve the most common problems. You can "
+"also install, uninstall and manage the kernels in a simpler way."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/help_comunity.html:5
+#: slideshows/lliurex/slides/help_wiki.html:5
+msgid "Getting Help"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/help_comunity.html:7
+msgid "If you need help, you can contact us:"
+msgstr ""
+
+#.  The url should not be translated 
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:9
+msgid ""
+"Using our <a href=\"http://mestreacasa.gva.es/web/lliurex/\">webpage</a> at "
+"<a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:13
+msgid ""
+"On the mailing list, subscribe on <a href=\"https://launchpad.net/~llxdev/"
+"+archive/ubuntu/xenial\">the page of LliureX project at Launchpad</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_comunity.html:17
+msgid ""
+"At our twitter account @lliurex at <a href=\"https://twitter.com/LliureX"
+"\">Twitter</a>"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><p>
+#: slideshows/lliurex/slides/help_comunity.html:21
+msgid "The installation will finish soon. We hope you enjoy LliureX."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/help_wiki.html:7
+msgid ""
+"If you have any doubt you can soved it if you visit our <a href=\"http://"
+"wiki.lliurex.net/\">wiki</a> at <a href=\"http://wiki.lliurex.net/\">wiki."
+"lliurex.net</a>:"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:9
+msgid "Info for Lliurex 19.04 and older versions."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:13
+msgid ""
+"You can find many manuals and video guides to manage LliureX in all "
+"environments."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:17
+msgid "Check how new applications work."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:21
+msgid "More problems have been solved here."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/help_wiki.html:25
+msgid "You can download many drivers for printers, digital boards....."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:5
+msgid "Desktop model"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:7
+msgid "Enjoy the environment of LliureX and its ease of use on any PC."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:13
+msgid "Clasroom model"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:15
+msgid ""
+"This implementation allows you to have LDAP validation, copy profiles on the "
+"server, classroom monitoring with Epoptes, internet control with LliureX "
+"Guard, automatic package installation ...."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/modelos.html:21
+msgid "Center model"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/modelos.html:23
+msgid ""
+"Have all the advantages of the classroom model and centralize all user data "
+"in a disk booth or central file server. Manage a single LDAP for validations "
+"throughout the center."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/mount-mode.html:5
+msgid "Clasroom mount mode"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/mount-mode.html:7
+msgid "Choose the classroom model you want:"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/mount-mode.html:9
+msgid "LITE: If you only want a desktop folder to be mounted."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/mount-mode.html:12
+msgid ""
+"FULL: The usual way where browser profiles, desktop preferences, Documents "
+"and Desktop folders are copied."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/novedades.html:5
+msgid "New aspect"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/novedades.html:7
+msgid ""
+"We have given a renewed and more friendly aspect to several of the "
+"applications:"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:9
+msgid "Open-SysClone"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:12
+msgid "Easy Sites"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:15
+msgid "lliureX Guard"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/novedades.html:18
+msgid "Bell Sheduler"
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/novedades.html:25
+msgid "Alarm Program"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/novedades.html:27
+msgid ""
+"With Bell Scheduler you can program alarms for class changes in a very "
+"simple way."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/welcome.html:5
+msgid "Thank you for choosing LliureX 19.07"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:8
+msgid ""
+"LliureX is an initiative driven by the Department of Education of Regional "
+"Government with the purpose of using free software ICTs in the Valencian "
+"Education System, so as to allow its users to enjoy a thoughtful and fine "
+"user experience."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:9
+msgid ""
+"LliureX is a Custom Ubuntu GNU/Linux Distribution (CDD) intended as an "
+"operating system for educational institutions."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex/slides/welcome.html:10
+msgid ""
+"While LliureX is installed, this slideshow will show you around its main "
+"features."
+msgstr ""

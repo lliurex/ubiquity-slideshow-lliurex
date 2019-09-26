@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-04-06 10:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/help.html:1
+msgid "Getting Help"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/help.html:8
+msgid "If you need help, you can contact us:"
+msgstr ""
+
+#.  The url should not be translated 
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:12
+msgid ""
+"Using our <a href=\"http://mestreacasa.gva.es/web/lliurex/\">webpage</a> at "
+"<a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+msgstr ""
+
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:16
+msgid ""
+"On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+"lliurex-1306\">the page of LliureX project at Launchpad</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:20
+msgid ""
+"At our twitter account @lliurex at <a href=\"https://twitter.com/LliureX"
+"\">Twitter</a>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/help.html:24
+msgid "The installation will finish soon. We hope you enjoy LliureX."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/im.html:1
+msgid "LliureX Networking model"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/im.html:8
+msgid ""
+"Lliurex Networking Model appears because of the growing ICT needs in the "
+"regional government."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/im.html:11
+msgid ""
+"With this model you will have all your files available everywhere in your "
+"network. It is optimized for thin clients."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lliurex_non_edu/slides/im.html:16
+#: slideshows/lliurex_non_edu/slides/install.html:19
+msgid "Included software"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/im.html:20
+msgid "Wizard"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/im.html:24
+msgid "LTSP"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/install.html:1
+#: slideshows/lliurex_non_edu/slides/office.html:1
+msgid "LliureX SME model"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/install.html:9
+msgid ""
+"LliureX SME is an adaptation to provide enterprise environment integration "
+"and mixed network capabilities."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/install.html:23
+msgid "Pbis"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/install.html:27
+msgid "Samba"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/office.html:8
+msgid ""
+"It includes software such as LibreOffice Suite, digital certificates from "
+"different CA, PDF Shuffler, Planner..."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/office.html:13
+msgid "Some of the Digital certificates supported are:"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lliurex_non_edu/slides/office.html:18
+msgid "CA"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/office.html:22
+msgid "DNIe"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/office.html:26
+msgid "ACCV"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/welcome.html:1
+msgid "Welcome"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:8
+msgid "Thank you for choosing LliureX 14.06 Platinum!"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:12
+msgid ""
+"LliureX is an initiative driven by the Department of Education of Regional "
+"Government with general purpose."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:13
+msgid ""
+"LliureX is a Custom Ubuntu GNU/Linux Distribution (CDD) developed by the "
+"Department of Education intended as an operating system for institutions "
+"throughout the region."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:14
+msgid ""
+"While LliureX is installed, this slideshow will show you around its main "
+"features."
+msgstr ""

@@ -1,0 +1,192 @@
+# LliureX spanish translation for ubiquity-slideshow-ubuntu
+# 2010# Copyright (c) 2010 LliureX Developers Team 2010
+# This file is distributed under the same license as the  ubiquity-slideshow-ubuntu  package.
+# Alfons Lloret Sanantón <lliurex_devel5@edu.gva.es>
+# Pilar Embid Giner <embid_mar@gva.es>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"POT-Creation-Date: 2014-06-13 09:44+0300\n"
+"PO-Revision-Date: 2017-06-09 18:54+0200\n"
+"Last-Translator: Pilar Embid Giner <embid_mar@gva.es>\n"
+"Language-Team: LliureX\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/help.html:1
+msgid "Getting Help"
+msgstr "Ajuda"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/help.html:8
+msgid "If you need help, you can contact us:"
+msgstr "Si necessiteu ajuda, podeu trobar-nos:"
+
+#. The url should not be translated
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:12
+msgid ""
+"Using our <a href=\"http://mestreacasa.gva.es/web/lliurex/\">webpage</a> at <a "
+"href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+msgstr ""
+"A la <a href=\"http://mestreacasa.gva.es/web/lliurex/\">nostra web</a> a <a href="
+"\"http://mestreacasa.gva.es/\">Mestre a casa</a>."
+
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:16
+msgid ""
+"On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+"lliurex-1306\">the page of LliureX project at Launchpad</a>."
+msgstr ""
+"A la llista de correu LliureX <a href=\"http://llliurex.net\"> a la pàgina del "
+"projecte</a>."
+
+#. type: Content of: <div><div><div><li>
+#: slideshows/lliurex_non_edu/slides/help.html:20
+msgid ""
+"At our twitter account @lliurex at <a href=\"https://twitter.com/LliureX"
+"\">Twitter</a>"
+msgstr ""
+"Al twitter de LliureX a <a href=\"https://twitter.com/LliureX\">(@lliurex)</a>"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/help.html:24
+msgid "The installation will finish soon. We hope you enjoy LliureX."
+msgstr ""
+"La instal·lació està a punt de finalitzar. Esperem que vos agrade el LliureX"
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/im.html:1
+msgid "LliureX Networking model"
+msgstr "LliureX Model de xarxa"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/im.html:8
+msgid ""
+"Lliurex Networking Model appears because of the growing ICT needs in the "
+"regional government."
+msgstr ""
+"El LliureX Model de centre apareix com a resposta a les necessitats creixents "
+"d'ús de les TIC a les conselleries."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/im.html:11
+msgid ""
+"With this model you will have all your files available everywhere in your "
+"network. It is optimized for thin clients."
+msgstr ""
+"Amb este model tindreu disponibles els vostres fitxers des de qualsevol "
+"ordinadorde la xarxa. Està optimitzat per a clients lleugers. "
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lliurex_non_edu/slides/im.html:16
+#: slideshows/lliurex_non_edu/slides/install.html:19
+msgid "Included software"
+msgstr "Programari inclòs"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/im.html:20
+msgid "Wizard"
+msgstr "Asistents"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/im.html:24
+msgid "LTSP"
+msgstr "LTSP"
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/install.html:1
+#: slideshows/lliurex_non_edu/slides/office.html:1
+msgid "LliureX SME model"
+msgstr "LliureX Model de xarxa"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/install.html:9
+msgid ""
+"LliureX SME is an adaptation to provide enterprise environment integration and "
+"mixed network capabilities."
+msgstr ""
+"LliureX model de xarxa es una adaptació que proveix de una integració "
+"profesionali la capacitat de treballar en xarxes mixtes"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/install.html:23
+msgid "Pbis"
+msgstr "Pbis"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/install.html:27
+msgid "Samba"
+msgstr "Samba"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/office.html:8
+msgid ""
+"It includes software such as LibreOffice Suite, digital certificates from "
+"different CA, PDF Shuffler, Planner..."
+msgstr ""
+"Està inclòs programari com el LibreOffice, certificats digitals de "
+"diferentesentitats certificadores, el Mesclador de fitxers PDF, el Planner."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/office.html:13
+msgid "Some of the Digital certificates supported are:"
+msgstr "Alguns dels certificats admesos són:"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/lliurex_non_edu/slides/office.html:18
+msgid "CA"
+msgstr "Entitats certificadores"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/office.html:22
+msgid "DNIe"
+msgstr "DNIe"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lliurex_non_edu/slides/office.html:26
+msgid "ACCV"
+msgstr "ACCV"
+
+#. type: Content of: <div><h1>
+#: slideshows/lliurex_non_edu/slides/welcome.html:1
+msgid "Welcome"
+msgstr "Vos donem la benvinguda"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:8
+msgid "Thank you for choosing LliureX 14.06 Platinum!"
+msgstr "Gràcies per triar el LliureX 16 Xenial!"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:12
+msgid ""
+"LliureX is an initiative driven by the Department of Education of Regional "
+"Government with general purpose."
+msgstr ""
+"LliureX és un projecte de la Conselleria d'Educació, Cultura i Esportde la "
+"Generalitat Valenciana amb propòsit general."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:13
+msgid ""
+"LliureX is a Custom Ubuntu GNU/Linux Distribution (CDD) developed by the "
+"Department of Education intended as an operating system for institutions "
+"throughout the region."
+msgstr ""
+"LliureX és una distribució personalitzada d'Ubuntu GNU/Linux que oferix un "
+"sistema operatiu a les institucions de l'àmbit de la Comunitat Valenciana."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lliurex_non_edu/slides/welcome.html:14
+msgid ""
+"While LliureX is installed, this slideshow will show you around its main "
+"features."
+msgstr ""
+"Durant la instal·lació esta presentació vos mostrarà algunes característiques "
+"del LliureX."

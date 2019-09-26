@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<title>ubiquity-slideshow-ubuntu</title>
+	
+	<link href="link/base.css" rel="stylesheet" type="text/css" />
+	
+	<base target="_blank" />
+	
+	<script type="text/javascript" src="link-core/jquery.js"></script>
+	<script type="text/javascript" src="link-core/jquery.cycle.all.js"></script>
+	
+	<script type="text/javascript" src="link-core/base.js"></script>
+	
+	<script type="text/javascript">
+		SLIDESHOW_OPTIONS = {
+			/*timeout:50000,
+			speed:600,*/
+			timeout: 20000,
+			/* Make sure our slides fit the window when resized */
+			fit: 1,
+			width: '100%',
+			height: '100%',
+			/* Default slideshow uses the 'scrollHorz' fx, but slides are not
+			resized horizontally with that fx, using 'scrollLeft' workarounds that
+			bug */
+			fx: 'fade',
+		}
+	</script>
+	
+	<style>
+		#wrapper{
+			background-image: url(screenshots/wallpaper.png);
+			background-repeat: no-repeat;
+			background-color: #EFF0F1;
+		}
+	</style>
+
+	<script type="text/javascript" src="link-core/slideshow.js"></script>
+</head>
+
+<body style="background-color:red">
+
+<div id="wrapper">
+	<div id="slideshow">
+		<div><a href="welcome.html"></a></div>
+		<div><a href="desktop.html"></a></div>
+		<div><a href="first-aid-kit.html"></a></div>
+		<div><a href="novedades.html"></a></div>
+		<div><a href="modelos.html"></a></div>
+		<div><a href="cuotas.html"></a></div>
+		<div><a href="mount-mode.html"></a></div>
+		<div><a href="help_wiki.html"></a></div>
+		<div><a href="help_comunity.html"></a></div>
+		
+
+	</div>
+
+	<div id="controls">
+		<a class="control-arrow" id="prev-slide" style="display:none;"></a>
+		<a class="control-arrow" id="next-slide"></a>
+		<input type="hidden" id="current-slide" />
+	</div>
+</div>
+
+</body>
+
+</html>
+
