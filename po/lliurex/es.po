@@ -20,7 +20,7 @@ msgstr ""
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/cuotas.html:5
 msgid "Quota LliureX Mode"
-msgstr "Modelo de Cuotas"
+msgstr "Gestion de cuotas"
 
 #. type: Content of: <div><div><div><h4><p>
 #: slideshows/lliurex/slides/cuotas.html:7
