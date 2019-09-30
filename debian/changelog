@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (138+lliurex5) bionic; urgency=medium
+
+  * Update translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 30 Sep 2019 09:59:03 +0200
+
 ubiquity-slideshow-ubuntu (138+lliurex4) bionic; urgency=medium
 
   * Update translations
