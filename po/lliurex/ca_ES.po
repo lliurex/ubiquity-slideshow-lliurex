@@ -5,16 +5,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-07-16 12:49+0200\n"
-"PO-Revision-Date: 2019-07-17 10:59+0200\n"
+"POT-Creation-Date: 2020-07-01 13:31+0200\n"
+"PO-Revision-Date: 2020-07-01 13:45+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.04.2\n"
-"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es\n"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/cuotas.html:5
@@ -27,9 +27,9 @@ msgid ""
 "Select the quota mode in the center model and do not allow any user to fill "
 "the data hard disk by dropping the system."
 msgstr ""
-"En un model d'aula o de centre , seleccioneu LliureX Quota en el menú. Des"
-" d'ací podeu limitar, editar i modificar la mida màxima del disc de què"
-" disposaran els usuaris en /net."
+"En un model d'aula o de centre , seleccioneu LliureX Quota en el menú. Des "
+"d'ací podeu limitar, editar i modificar la mida màxima del disc de què "
+"disposaran els usuaris en /net."
 
 #. type: Content of: <div><div><div><h4><p>
 #: slideshows/lliurex/slides/cuotas.html:8
@@ -50,10 +50,10 @@ msgid ""
 "will experience a smooth and beautiful system. More function in details are "
 "awaiting you to find out."
 msgstr ""
-"Hem canviat l'entorn de LliureX i ara és molt més modern i actual."
-" Disfrutareu d'una millor experiència amb les novetats en el menú d'inici, la"
-" barra d'estat, les icones del tauler, l'administrador de fitxers i el tauler"
-" de control. Descobriu les noves funcions que trobareu en el nou escriptori."
+"Hem canviat l'entorn de LliureX i ara és molt més modern i actual. "
+"Disfrutareu d'una millor experiència amb les novetats en el menú d'inici, la "
+"barra d'estat, les icones del tauler, l'administrador de fitxers i el tauler "
+"de control. Descobriu les noves funcions que trobareu en el nou escriptori."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/first-aid-kit.html:5
@@ -66,9 +66,61 @@ msgid ""
 "Now, you can test your system and solve the most common problems. You can "
 "also install, uninstall and manage the kernels in a simpler way."
 msgstr ""
-"Ara podeu verificar el sistema i corregir els problemes més habituals. "
-"A més, també podeu instal·lar, desinstal·lar i gestionar el nucli d'arrancada"
-" d'una manera més senzilla."
+"Ara podeu verificar el sistema i corregir els problemes més habituals. A "
+"més, també podeu instal·lar, desinstal·lar i gestionar el nucli d'arrancada "
+"d'una manera més senzilla."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/fp.html:5
+msgid "FP version"
+msgstr "FP Versió"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:7
+msgid ""
+"An environment prepared for FP, eliminating the apps for early childhood "
+"education, but maintaining the potential that LLiureX offers within the "
+"classroom."
+msgstr ""
+"Un entorn preparat per a FP, eliminant les apps d'educació infantil, però "
+"mantenint el potencial que LLiureX ofereix dins de l'aula."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:14
+msgid "Zero-center, to configure and install the most important software."
+msgstr ""
+"Zero-Center, per a configurar i instal·lar el programari mes important."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:17
+msgid "Moving profiles with Ldap."
+msgstr "Perfils mòbils amb Ldap."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:20
+#, fuzzy
+msgid "Clasroom control."
+msgstr "Clasroom mount mode"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:27
+msgid "And special software collection to:"
+msgstr "I una selecció especial de programari per a:"
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:32
+msgid "Electronica."
+msgstr "Electrònica."
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:35
+msgid "Administrativo."
+msgstr "Administratiu."
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:38
+msgid "Informatica."
+msgstr "Informàtica."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/help_comunity.html:5
@@ -88,8 +140,8 @@ msgid ""
 "Using our <a href=\"http://mestreacasa.gva.es/web/lliurex/\">webpage</a> at "
 "<a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
 msgstr ""
-"Utilitzeu la nostra <a href=\"http://mestreacasa.gva.es/web/lliurex/\">pàgina "
-"web</a> en <a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
+"Utilitzeu la nostra <a href=\"http://mestreacasa.gva.es/web/lliurex/"
+"\">pàgina web</a> en <a href=\"http://mestreacasa.gva.es/\">Mestre a casa</a>"
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/help_comunity.html:13
@@ -97,10 +149,9 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~llxdev/"
 "+archive/ubuntu/xenial\">the page of LliureX project at Launchpad</a>."
 msgstr ""
-"La nostra llista de correu de LliureX, subscriviu-vos en  <a"
-" href=\"https://launchpad.net/"
-"~llxdev/+archive/ubuntu/bionic\">la pàgina del projecte LlliureX en "
-"Launchpad</a>."
+"La nostra llista de correu de LliureX, subscriviu-vos en  <a href=\"https://"
+"launchpad.net/~llxdev/+archive/ubuntu/bionic\">la pàgina del projecte "
+"LlliureX en Launchpad</a>."
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/help_comunity.html:17
@@ -123,9 +174,8 @@ msgid ""
 "wiki.lliurex.net/\">wiki</a> at <a href=\"http://wiki.lliurex.net/\">wiki."
 "lliurex.net</a>:"
 msgstr ""
-"Si voleu resoldre qualsevol dubte, visiteu <a href=\"http://"
-"wiki.lliurex.net/\">wiki</a> en <a href=\"http://wiki.lliurex.net/\"> wiki."
-"lliurex.net</a>:"
+"Si voleu resoldre qualsevol dubte, visiteu <a href=\"http://wiki.lliurex.net/"
+"\">wiki</a> en <a href=\"http://wiki.lliurex.net/\"> wiki.lliurex.net</a>:"
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/help_wiki.html:9
@@ -138,8 +188,8 @@ msgid ""
 "You can find many manuals and video guides to manage LliureX in all "
 "environments."
 msgstr ""
-"Podeu trobar molts manuals i videoguies  per a gestionar LliureX en tots els"
-" seus entorns."
+"Podeu trobar molts manuals i videoguies  per a gestionar LliureX en tots els "
+"seus entorns."
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/help_wiki.html:17
@@ -155,7 +205,8 @@ msgstr "S'han resolt anteriorment molts problemes ací."
 #: slideshows/lliurex/slides/help_wiki.html:25
 msgid "You can download many drivers for printers, digital boards....."
 msgstr ""
-"Podeu descarregar molts controladors per a impressores, pissarres digitals ..."
+"Podeu descarregar molts controladors per a impressores, pissarres "
+"digitals ..."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/modelos.html:5
@@ -180,10 +231,10 @@ msgid ""
 "server, classroom monitoring with Epoptes, internet control with LliureX "
 "Guard, automatic package installation ...."
 msgstr ""
-"Aquesta implementació us permet tindre validacions de LDAP, guardar els"
-" perfils dels usuaris en el servidor, monitorar l'aula amb Epoptes, controlar"
-" l'accés a algunes webs d'internet amb LliureX Guard, instal·lar paquets"
-" automàticament..."
+"Aquesta implementació us permet tindre validacions de LDAP, guardar els "
+"perfils dels usuaris en el servidor, monitorar l'aula amb Epoptes, controlar "
+"l'accés a algunes webs d'internet amb LliureX Guard, instal·lar paquets "
+"automàticament..."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/modelos.html:21
@@ -197,9 +248,9 @@ msgid ""
 "in a disk booth or central file server. Manage a single LDAP for validations "
 "throughout the center."
 msgstr ""
-"Gaudiu de tots els avantatges del model d'aula i centralitzeu totes les dades"
-" de l'usuari en una cabina de disc o en un servidor de fitxers. Gestioneu un"
-" únic LDAP per a validacions dels usuaris en tot el centre."
+"Gaudiu de tots els avantatges del model d'aula i centralitzeu totes les "
+"dades de l'usuari en una cabina de disc o en un servidor de fitxers. "
+"Gestioneu un únic LDAP per a validacions dels usuaris en tot el centre."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/mount-mode.html:5
@@ -222,9 +273,24 @@ msgid ""
 "FULL: The usual way where browser profiles, desktop preferences, Documents "
 "and Desktop folders are copied."
 msgstr ""
-"COMPLET: El model habitual de LLiureX, on es copien els perfils del"
-" navegador, les preferències de les sessions, les carpetes Documents i"
-" l'Escriptori."
+"COMPLET: El model habitual de LLiureX, on es copien els perfils del "
+"navegador, les preferències de les sessions, les carpetes Documents i "
+"l'Escriptori."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/news.html:5
+msgid "LliureX News"
+msgstr "LliureX News"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/news.html:7
+msgid ""
+"Bring your news to life, publish it on your blog and read it on the web or "
+"through the hall monitors. Post texts, images, videos and define your style."
+msgstr ""
+"Dona-li vida a les teues notícies, publica-les en el seu blog i llig-les en "
+"la web o a través dels monitors dels corredors. Publica textos, imatges, "
+"vídeos i defineix el teu estil."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/novedades.html:5
@@ -251,9 +317,8 @@ msgstr "Easy Sites"
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/novedades.html:15
-#, fuzzy
 msgid "lliureX Guard"
-msgstr "LliureX Guard"
+msgstr "LliureX Guard."
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/novedades.html:18
@@ -275,6 +340,28 @@ msgstr ""
 "manera molt senzilla."
 
 #. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/printa.html:5
+msgid "Printa"
+msgstr "Printa"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:7
+msgid ""
+"The PRINTA print management service allows you to control or limit the "
+"number of prints that each user of the system makes."
+msgstr ""
+"El servei de gestió d'impressió PRINTA permet controlar o limitar el numere "
+"d'impressions que cada usuari del sistema realitza."
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:11
+msgid ""
+"With the management tool, automatic printing fee recharges can be scheduled."
+msgstr ""
+"Amb l'eina de gestió, es poden programar recàrregues automàtiques de quota "
+"d'impressió."
+
+#. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/welcome.html:5
 msgid "Thank you for choosing LliureX 19.07"
 msgstr "Gràcies per triar LliureX 19.07"
@@ -287,10 +374,10 @@ msgid ""
 "Education System, so as to allow its users to enjoy a thoughtful and fine "
 "user experience."
 msgstr ""
-"LliureX es una iniciativa impulsada per la Conselleria d'Educació, Cultura i"
-" Esport de la Generalitat Valenciana per a utilitzar les TIC de programari"
-" lliure en el sistema educatiu valencià i d'aquesta manera permetre als"
-" usuaris gaudir d'una experiència agradable i senzilla."
+"LliureX es una iniciativa impulsada per la Conselleria d'Educació, Cultura i "
+"Esport de la Generalitat Valenciana per a utilitzar les TIC de programari "
+"lliure en el sistema educatiu valencià i d'aquesta manera permetre als "
+"usuaris gaudir d'una experiència agradable i senzilla."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lliurex/slides/welcome.html:9
@@ -307,5 +394,5 @@ msgid ""
 "While LliureX is installed, this slideshow will show you around its main "
 "features."
 msgstr ""
-"Mentre s'instal·la LliureX, aquesta presentació de diapositives us mostrarà"
-" les seues característiques principals."
+"Mentre s'instal·la LliureX, aquesta presentació de diapositives us mostrarà "
+"les seues característiques principals."
