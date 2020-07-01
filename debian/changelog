@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (138+lliurex6) bionic; urgency=medium
+
+  * Adding new screens to 2020 July Update 
+
+ -- Daniel Duran <daduve@gmail.com>  Wed, 01 Jul 2020 13:52:10 +0200
+
 ubiquity-slideshow-ubuntu (138+lliurex5) bionic; urgency=medium
 
   * Update translations
