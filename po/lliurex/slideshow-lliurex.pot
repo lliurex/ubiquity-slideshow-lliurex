@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-07-16 12:49+0200\n"
+"POT-Creation-Date: 2020-07-01 13:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,6 +57,54 @@ msgstr ""
 msgid ""
 "Now, you can test your system and solve the most common problems. You can "
 "also install, uninstall and manage the kernels in a simpler way."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/fp.html:5
+msgid "FP version"
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:7
+msgid ""
+"An environment prepared for FP, eliminating the apps for early childhood "
+"education, but maintaining the potential that LLiureX offers within the "
+"classroom."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:14
+msgid "Zero-center, to configure and install the most important software."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:17
+msgid "Moving profiles with Ldap."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:20
+msgid "Clasroom control."
+msgstr ""
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:27
+msgid "And special software collection to:"
+msgstr ""
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:32
+msgid "Electronica."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:35
+msgid "Administrativo."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:38
+msgid "Informatica."
 msgstr ""
 
 #. type: Content of: <div><div><div><h1>
@@ -191,6 +239,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/news.html:5
+msgid "LliureX News"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/news.html:7
+msgid ""
+"Bring your news to life, publish it on your blog and read it on the web or "
+"through the hall monitors. Post texts, images, videos and define your style."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/novedades.html:5
 msgid "New aspect"
 msgstr ""
@@ -232,6 +292,24 @@ msgstr ""
 msgid ""
 "With Bell Scheduler you can program alarms for class changes in a very "
 "simple way."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/printa.html:5
+msgid "Printa"
+msgstr ""
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:7
+msgid ""
+"The PRINTA print management service allows you to control or limit the "
+"number of prints that each user of the system makes."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:11
+msgid ""
+"With the management tool, automatic printing fee recharges can be scheduled."
 msgstr ""
 
 #. type: Content of: <div><div><div><h1>

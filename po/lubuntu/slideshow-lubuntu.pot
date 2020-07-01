@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"POT-Creation-Date: 2020-07-01 13:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -178,8 +178,19 @@ msgid "Empathy"
 msgstr ""
 
 #. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/06_lsc.html:1
 #: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/06_lsc.html:8
+msgid ""
+"With Lubuntu, you have access to the whole Ubuntu repository and all the "
+"software included. This means that thousands of new applications are ready "
+"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"and explore categories such as games, science and education, or search for "
+"your favorite software."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>

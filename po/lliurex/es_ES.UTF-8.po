@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-07-16 12:49+0200\n"
-"PO-Revision-Date: 2019-07-16 13:40+0200\n"
+"POT-Creation-Date: 2020-07-01 13:31+0200\n"
+"PO-Revision-Date: 2020-07-01 13:39+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.6\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es\n"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/cuotas.html:5
@@ -71,6 +71,56 @@ msgstr ""
 "Ahora puedes testear el sistema y corregir los problemas mas habituales. "
 "Además también puedes instalar, desinstalar y gestionar el kernel de "
 "arranque de una manera más sencilla."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/fp.html:5
+msgid "FP version"
+msgstr "Version Fp"
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:7
+msgid ""
+"An environment prepared for FP, eliminating the apps for early childhood "
+"education, but maintaining the potential that LLiureX offers within the "
+"classroom."
+msgstr ""
+"Un entorno preparado para FP, eliminando las apps de educación infantil, "
+"pero manteniendo el potencial que LLiureX ofrece dentro del aula."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:14
+msgid "Zero-center, to configure and install the most important software."
+msgstr "Zero-center, para configurar e instalar el software mas importante."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:17
+msgid "Moving profiles with Ldap."
+msgstr "Perfiles móviles con Ldap."
+
+#. type: Content of: <div><div><div><h4><div><li>
+#: slideshows/lliurex/slides/fp.html:20
+msgid "Clasroom control."
+msgstr "Control de aula."
+
+#. type: Content of: <div><div><div><h4><p>
+#: slideshows/lliurex/slides/fp.html:27
+msgid "And special software collection to:"
+msgstr "Y una selección especial de software para:"
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:32
+msgid "Electronica."
+msgstr "Electrónica."
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:35
+msgid "Administrativo."
+msgstr "Administrativo."
+
+#. type: Content of: <div><div><div><h1><div><li>
+#: slideshows/lliurex/slides/fp.html:38
+msgid "Informatica."
+msgstr "Informática."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/help_comunity.html:5
@@ -228,6 +278,21 @@ msgstr ""
 "Escritorio."
 
 #. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/news.html:5
+msgid "LliureX News"
+msgstr "LliureX News"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/news.html:7
+msgid ""
+"Bring your news to life, publish it on your blog and read it on the web or "
+"through the hall monitors. Post texts, images, videos and define your style."
+msgstr ""
+"Dale vida a tus noticias, publícalas en su blog y léelas en la web o a "
+"través de los monitores de los pasillos. Publica textos, imágenes, vídeos y "
+"define tu estilo."
+
+#. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/novedades.html:5
 msgid "New aspect"
 msgstr "Nuevo aspecto"
@@ -252,7 +317,6 @@ msgstr "Easy Sites"
 
 #. type: Content of: <div><div><div><h4><div><li>
 #: slideshows/lliurex/slides/novedades.html:15
-#, fuzzy
 msgid "lliureX Guard"
 msgstr "LliureX Guard"
 
@@ -274,6 +338,28 @@ msgid ""
 msgstr ""
 "Con Bell Scheduler puedes programar alarmas para cambios de clase de una "
 "manera muy sencilla."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/lliurex/slides/printa.html:5
+msgid "Printa"
+msgstr "Printa"
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:7
+msgid ""
+"The PRINTA print management service allows you to control or limit the "
+"number of prints that each user of the system makes."
+msgstr ""
+"El servicio de gestión de impresión PRINTA permite controlar o limitar el "
+"numero de impresiones que cada usuario del sistema realiza."
+
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/lliurex/slides/printa.html:11
+msgid ""
+"With the management tool, automatic printing fee recharges can be scheduled."
+msgstr ""
+"Con la herramienta de gestión, se pueden programar recargas automáticas de "
+"cuota de impresión."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/lliurex/slides/welcome.html:5
